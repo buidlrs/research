@@ -6,7 +6,7 @@ Collection of slides and codes from workshops and other open source learning pla
 
 * [ERC20 token](./ERC20)
 
-* [P2P Lendind](./p2plending)
+* [P2P Lending](./p2plending)
 
 * [Land Records Management](./Property-Registry)
 
