@@ -1,4 +1,4 @@
-# research
+earch
  Collection of research and learning materials to work on a project
  
  # Resources
@@ -7,11 +7,11 @@ Collection of slides and codes from workshops and other open source learning pla
 
 1. [*Bitcoin Lightning Network*](./resources/Lightning%20Network)
 
-2. [*Ethereum DApps*]()
+2. [*Ethereum DApps*](./resources/Ethereum%20Dapps)
 
-3. [*Ethereum Raiden Network*]()
+3. [*Ethereum Raiden Network*](./resources/Raiden%20Network)
 
-4. [*Libra blockchain*]()
+4. [*Libra blockchain*](./resources/Libra)
 
 5. [*NEO blockchain*]()
 
@@ -20,3 +20,4 @@ Collection of slides and codes from workshops and other open source learning pla
 
  
  
+
